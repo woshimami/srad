@@ -4,6 +4,7 @@ import numpy as np
 from srad import *
 
 #from numpy import float16
+# import os
 
 #1\Read the image
 Image = cv2.imread('3.bmp',1)
